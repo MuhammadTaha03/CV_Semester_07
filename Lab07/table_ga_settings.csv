@@ -1,0 +1,4 @@
+GA setting,Population,Generations,Mutation prob.,Best fitness,"Val macro-F1 (subsample-trained, %)",Features kept,Reduction (%),#SVM evals,GA time (s)
+"GA-A (pop=20, pm=0.002)",20,15,0.002,0.9482,96.13,2129,73.7,290,170.7
+"GA-B (pop=30, pm=0.002)",30,15,0.002,0.9497,96.4,2312,71.5,450,273.3
+"GA-C (pop=20, pm=0.010)",20,15,0.01,0.9448,95.86,2246,72.3,290,179.3

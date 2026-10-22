@@ -1,0 +1,9 @@
+Stage (seconds),HOG + SVM,GA-HOG + SVM
+"HOG extraction (shared, all splits)",58.5,58.5
+GA feature selection,0.0,273.25
+"Hyper-parameter tuning (C, gamma)",18.48,8.0
+Final SVM training (full train set),4.85,1.75
+Test-set inference,0.86,0.22
+TOTAL pipeline,82.69,341.72
+Number of features,8100.0,2312.0
+Support vectors,947.0,889.0
