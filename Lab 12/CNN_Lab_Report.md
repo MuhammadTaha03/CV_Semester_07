@@ -4,8 +4,7 @@
 |---|---|
 | **Student Name** | Muhammad Taha |
 | **Registration / Roll No.** | FA23-BAI-055 |
-| **Course / Section** | ____________ |
-| **Submission Date** | ____________ |
+
 
 ---
 
